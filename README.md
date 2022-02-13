@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @crnch
-- 👀 I’m interested in python, cryptography and technology in general
-- 🌱 I’m currently learning js, rust und how to live a happier life
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 Drop me a message!
+Hi, I’m @crnch.
+I'm building this profile to publish work in connection with web3. Send me a message on [twitter](https://twitter.com/crnch0x) or via [email](mailto:crnch@protonmail.com) if you have a question.
+
+Have an excellent day!
 
 <!---
 crnch/crnch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
