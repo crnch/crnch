@@ -1,5 +1,5 @@
 Hi, I’m @crnch.
-I'm building this profile to publish work in connection with web3. Send me a message on [twitter](https://twitter.com/crnch0x) or via [email](mailto:crnch@protonmail.com) if you have a question.
+I'm building this profile to publish work in connection with web3. Send me a message on [twitter](https://twitter.com/crnch0x) or via [email](mailto:crnch@protonmail.com).
 
 Have an excellent day!
 
