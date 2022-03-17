@@ -1,5 +1,5 @@
-Hi, I’m @crnch.
-I'm building this profile to publish work in ranging over a variety of my personal interests. Send me a message on [twitter](https://twitter.com/crnch0x) or via [email](mailto:crnch@protonmail.com).
+Hi, 
+you can reach me on [twitter](https://twitter.com/crnch0x) or via [email](mailto:crnch@protonmail.com).
 
 Have an excellent day!
 
